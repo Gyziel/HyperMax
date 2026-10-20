@@ -6,8 +6,8 @@
 
 **Xiaomi 17 Pro · Refresh Rate / Touch / Thermal**
 
-[![Profile](https://img.shields.io/badge/CnGyZzh-Gy-181717?logo=github)](https://github.com/CnGyZzh)
-[![Level](https://img.shields.io/badge/Hub-Level-6f42c1)](https://github.com/CnGyZzh/Level)
+[![Profile](https://img.shields.io/badge/Gyziel-Gy-181717?logo=github)](https://github.com/Gyziel)
+[![Level](https://img.shields.io/badge/Hub-Level-6f42c1)](https://github.com/Gyziel/Level)
 [![Device](https://img.shields.io/badge/Device-Xiaomi_17_Pro-orange)](#compatibility)
 
 [保留版本](#maintained-builds) · [安装](#install) · [兼容性](#compatibility) · [致谢](#credits)
@@ -29,7 +29,7 @@
 - 默认面向 **144Hz + 300Hz** 使用场景。
 - Monet / FastUI WebUI。
 - 无常驻轮询。
-- [下载 Release](https://github.com/CnGyZzh/HyperMax/releases/tag/V2.5.0-NoThermal)
+- [下载 Release](https://github.com/Gyziel/HyperMax/releases/tag/V2.5.0-NoThermal)
 
 ### v4.1.0 · ThermalBindMount
 
@@ -76,7 +76,7 @@
 
 ## Ecosystem
 
-**[CnGyZzh Profile](https://github.com/CnGyZzh/CnGyZzh)** · **[Level](https://github.com/CnGyZzh/Level)** · **[WeType Monet](https://github.com/CnGyZzh/WeType_Monet-Gy)** · **[ZEEHO Auto](https://github.com/CnGyZzh/ZEEHO-Auto-Gy)**
+**[Gyziel Profile](https://github.com/Gyziel/Gyziel)** · **[Level](https://github.com/Gyziel/Level)** · **[WeType Monet](https://github.com/Gyziel/WeType_Monet-Gy)** · **[ZEEHO Auto](https://github.com/Gyziel/ZEEHO-Auto-Gy)**
 
 ---
 
